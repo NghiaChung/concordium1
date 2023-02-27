@@ -10,3 +10,6 @@
 ![Screenshot 2023-02-27 at 25.42.10.png](Screenshot%202023-02-27%20at%2025.42.10.png)
 ## Import web wallet account into concordium client
 ![Screenshot 2023-02-27 at 27.43.40.png](Screenshot%202023-02-27%20at%2027.43.40.png)
+
+## Mainnet address
+4Wao8cSyctDqfUFYoEDDQEnesuAkGSJUhqYpGPTzJouS7WUnus
